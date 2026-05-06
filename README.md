@@ -110,24 +110,35 @@ Python, Vue.js, Node.js and Machine Learning models.
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-<p align="center">
+## 🏦 LoanWise AI
+🔹 Intelligent loan approval prediction system  
+🔹 Stacking Ensemble Model  
+🔹 Explainable AI using SHAP  
+🔹 Flask API + Vue.js Frontend
 
 <a href="https://github.com/sharon207/loanwise-ai">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=loanwise-ai&theme=radical" />
 </a>
+---
 
+## 🎓 EduTrack
+🔹 Student management and attendance tracking platform  
+🔹 Built with Vue.js, Node.js and MongoDB  
+🔹 Attendance analytics using Chart.js
 <a href="https://github.com/sharon207/EduTrack">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=EduTrack&theme=radical" />
 </a>
+---
 
+## 📝 AI Driven Exam Evaluation System
+🔹 Automated answer evaluation using NLP & Machine Learning  
+🔹 Generates detailed student feedback  
+🔹 Improves grading efficiency
 <a href="https://github.com/sharon207/AI-Driven-Exam-Evaluation-System">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=AI-Driven-Exam-Evaluation-System&theme=radical" />
 </a>
-
-</p>
-
 ---
 
 # 📊 GitHub Stats
