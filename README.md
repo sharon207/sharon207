@@ -124,7 +124,7 @@ me = SharonXavier()
 
 <p align="center">
 
-Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; HTML5 &nbsp;&nbsp; CSS3 &nbsp;&nbsp; Node.js &nbsp;&nbsp; Express.js &nbsp;&nbsp; Flask &nbsp;&nbsp; MongoDB &nbsp;&nbsp; Vue.js &nbsp;&nbsp; Next.js &nbsp;&nbsp; TailwindCSS &nbsp;&nbsp; Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; Linux &nbsp;&nbsp; VS Code
+Python • C++ • JavaScript • HTML5 • CSS3 • Node.js • Express.js • Flask • MongoDB • Vue.js • Next.js • TailwindCSS • Git • GitHub • Linux • VS Code
 
 </p>
 
@@ -149,15 +149,15 @@ Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; HTML5 &nbsp;&nbsp; 
 <p align="center">
 
 <a href="https://github.com/sharon207/loanwise-ai">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=loanwise-ai&theme=radical&hide_border=true&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=loanwise-ai&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/sharon207/edutrack">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=edutrack&theme=radical&hide_border=true&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=edutrack&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/sharon207/ai-driven-exam-evaluation-system">
-  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=ai-driven-exam-evaluation-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=ai-driven-exam-evaluation-system&theme=midnight-purple" />
 </a>
 
 </p>
@@ -168,15 +168,17 @@ Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; HTML5 &nbsp;&nbsp; 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharon207&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sharon207&show_icons=true&theme=midnight-purple&count_private=true" />
 
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/sharon207?style=for-the-badge&color=bb86fc"/>
-<img src="https://img.shields.io/github/stars/sharon207?style=for-the-badge&color=bb86fc"/>
-<img src="https://img.shields.io/badge/Public%20Repos-View%20On%20Profile-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/sharon207?style=for-the-badge&logo=github&color=7B2CBF"/>
+
+<img src="https://img.shields.io/github/stars/sharon207?style=for-the-badge&logo=github&color=9D4EDD"/>
+
+<img src="https://img.shields.io/github/watchers/sharon207?style=for-the-badge&logo=github&color=C77DFF"/>
 
 </p>
 
@@ -186,9 +188,9 @@ Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; HTML5 &nbsp;&nbsp; 
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharon207&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sharon207&show_icons=true&theme=midnight-purple"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharon207&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharon207&layout=compact&theme=midnight-purple"/>
 
 </p>
 
@@ -198,7 +200,7 @@ Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; HTML5 &nbsp;&nbsp; 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharon207&theme=radical&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=sharon207&theme=midnight-purple"/>
 
 </p>
 
@@ -228,7 +230,7 @@ Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; HTML5 &nbsp;&nbsp; 
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharon207&theme=radical"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharon207&theme=midnight-purple"/>
 
 </p>
 
@@ -258,7 +260,7 @@ Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; HTML5 &nbsp;&nbsp; 
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple"/>
 
 </p>
 
