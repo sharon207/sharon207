@@ -2,8 +2,8 @@
 
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/sharon207/sharon207/main/images/ssdsd.jpeg"
-    width="500"
+    src="https://raw.githubusercontent.com/sharon207/sharon207/main/images/sasfaffa.jpeg"
+    width="100%"
     alt="Sharon Xavier Banner"
   />
 </p>
