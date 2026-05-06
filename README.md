@@ -1,7 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:9d4edd&height=260&section=header&text=SHARON%20XAVIER&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Enthusiast%20|%20Python%20Developer%20|%20Full%20Stack%20Developer&descAlignY=60&descAlign=50"/>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sharon207/sharon207/main/images/ssdsd.jpeg" width="190" style="border-radius:50%;" />
+  <img 
+    src="https://raw.githubusercontent.com/sharon207/sharon207/main/images/ssdsd.jpeg"
+    width="500"
+    alt="Sharon Xavier Banner"
+  />
 </p>
 
 <h1 align="center">Hey 👋, I'm Sharon Xavier</h1>
