@@ -16,39 +16,58 @@
 
 ---
 
-# 🧠 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=850&lines=AI+%2F+ML+Full+Stack+Developer;Building+Intelligent+Applications;Machine+Learning+Enthusiast;Cybersecurity+Learner;Always+Learning+New+Technologies" />
+
+</p>
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```python
-class SharonXavier:
+class SharonXavier():
 
     def __init__(self):
         self.name = "Sharon Xavier"
         self.role = "AI / ML Full Stack Developer"
-        self.language_spoken = ["English", "Malayalam"]
+        self.learning = [
+            "Machine Learning",
+            "Full Stack Development",
+            "Cybersecurity",
+            "Artificial Intelligence"
+        ]
 
-    def say_hi(self):
-        print("Thanks for visiting my GitHub Profile!")
+    def life(self):
+        while True:
+            self.code()
+            self.learn()
+            self.build()
 
 me = SharonXavier()
-me.say_hi()
 ```
 
-💻 Computer Science Engineering student passionate about  
-Artificial Intelligence, Machine Learning and modern web development.
+### 💫 Who Am I?
 
-🚀 Experienced in building AI-powered applications using:
-- Python
-- Vue.js
-- Node.js
-- Machine Learning Models
+- 🎓 Computer Science Engineering Student  
+- 🤖 Passionate about Artificial Intelligence & Machine Learning  
+- 🌐 Full Stack Developer focused on modern web technologies  
+- 🧠 Interested in NLP, Explainable AI and Intelligent Systems  
+- 🚀 Building scalable AI-powered applications using Python & Node.js  
+- 🔥 Exploring Cybersecurity and modern backend architectures  
+- ⚡ Love creating futuristic and innovative projects  
 
-🧠 Interested in:
-- Artificial Intelligence
-- Machine Learning
-- NLP
-- Full Stack Development
-- Cybersecurity
-- Intelligent Systems
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI%20Engineer-BB86FC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python%20Developer-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Developer-6A0DAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-7B2CBF?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -84,7 +103,28 @@ Artificial Intelligence, Machine Learning and modern web development.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,nodejs,express,flask,mongodb,vue,nextjs,tailwind,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+<img src="https://skillicons.dev/icons?i=html" height="55"/>
+<img src="https://skillicons.dev/icons?i=css" height="55"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="55"/>
+<img src="https://skillicons.dev/icons?i=express" height="55"/>
+<img src="https://skillicons.dev/icons?i=flask" height="55"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="55"/>
+<img src="https://skillicons.dev/icons?i=vue" height="55"/>
+<img src="https://skillicons.dev/icons?i=nextjs" height="55"/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
+<img src="https://skillicons.dev/icons?i=git" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=linux" height="55"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+
+</p>
+
+<p align="center">
+
+Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; HTML5 &nbsp;&nbsp; CSS3 &nbsp;&nbsp; Node.js &nbsp;&nbsp; Express.js &nbsp;&nbsp; Flask &nbsp;&nbsp; MongoDB &nbsp;&nbsp; Vue.js &nbsp;&nbsp; Next.js &nbsp;&nbsp; TailwindCSS &nbsp;&nbsp; Git &nbsp;&nbsp; GitHub &nbsp;&nbsp; Linux &nbsp;&nbsp; VS Code
 
 </p>
 
@@ -109,16 +149,34 @@ Artificial Intelligence, Machine Learning and modern web development.
 <p align="center">
 
 <a href="https://github.com/sharon207/loanwise-ai">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=loanwise-ai&theme=radical&border_radius=15&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" />
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=loanwise-ai&theme=radical&hide_border=true&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" />
 </a>
 
-<a href="https://github.com/sharon207/EduTrack">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=EduTrack&theme=radical&border_radius=15&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" />
+<a href="https://github.com/sharon207/edutrack">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=edutrack&theme=radical&hide_border=true&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" />
 </a>
 
-<a href="https://github.com/sharon207/AI-Driven-Exam-Evaluation-System">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=AI-Driven-Exam-Evaluation-System&theme=radical&border_radius=15&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" />
+<a href="https://github.com/sharon207/ai-driven-exam-evaluation-system">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=ai-driven-exam-evaluation-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" />
 </a>
+
+</p>
+
+---
+
+# ⭐ GitHub Star Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sharon207&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/sharon207?style=for-the-badge&color=bb86fc"/>
+<img src="https://img.shields.io/github/stars/sharon207?style=for-the-badge&color=bb86fc"/>
+<img src="https://img.shields.io/badge/Public%20Repos-View%20On%20Profile-blueviolet?style=for-the-badge"/>
 
 </p>
 
@@ -150,7 +208,7 @@ Artificial Intelligence, Machine Learning and modern web development.
 
 <p align="center">
 
-[![Sharon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sharon207&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff&area=true&hide_border=true)](https://github.com/sharon207)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharon207&bg_color=0d1117&color=bb86fc&line=bb86fc&point=ffffff&area=true&hide_border=true"/>
 
 </p>
 
