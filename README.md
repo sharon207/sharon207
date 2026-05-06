@@ -119,7 +119,7 @@ Python, Vue.js, Node.js and Machine Learning models.
 🔹 Flask API + Vue.js Frontend
 
 <a href="https://github.com/sharon207/loanwise-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=loanwise-ai&theme=radical" />
+  <img src="C:\Users\ASUS\Desktop\web\github-profile-readme-youtube\animated\go.gif" />
 </a>
 ---
 
