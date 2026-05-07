@@ -156,16 +156,16 @@ Python &nbsp;&nbsp; C++ &nbsp;&nbsp; JavaScript &nbsp;&nbsp; HTML5 &nbsp;&nbsp; 
   <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=loanwise-ai&theme=radical&hide_border=true&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" /><img align="right" alt="Coding" width="320" src="https://github.com/sharon207/sharon207/blob/c075a600192ae6fae25254eb4b2512169a2848dd/animated/go.gif">
 </a>
 loanwise-ai
-<img align="right" alt="Rabbit Animation" width="320" src="https://raw.githubusercontent.com/sharon207/sharon207/c075a600192ae6fae25254eb4b2512169a2848dd/animated/rabbit.gif">
 
 <a href="https://github.com/sharon207/EDU-TRACK">
   <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=edutrack&theme=radical&hide_border=true&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" />
 </a>
+EDU-TRACK
 
 <a href="https://github.com/sharon207/ai-driven-exam-evaluation-system">
   <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=sharon207&repo=ai-driven-exam-evaluation-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff" />
 </a>
-
+ai-driven-exam-evaluation-system
 </p>
 
 ---
